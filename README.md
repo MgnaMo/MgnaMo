@@ -1,4 +1,4 @@
-# 🎨 Portafolio de Miguel Muñoz Ulloa
+# 🎨 Repositorio de Miguel Muñoz Ulloa
 
 ¡Hola! 👋 Soy **Miguel Muñoz Ulloa**, un apasionado del diseño y la tecnología, recientemente convertido en **desarrollador fullstack JavaScript**.
 
